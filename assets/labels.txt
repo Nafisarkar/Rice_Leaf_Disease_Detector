@@ -1,0 +1,3 @@
+0 blast
+1 blight
+2 tungro
